@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Moon-website/static/css/main.3dd38d8a.css",
+    "main.js": "/Moon-website/static/js/main.85e2e958.js",
+    "index.html": "/Moon-website/index.html",
+    "main.3dd38d8a.css.map": "/Moon-website/static/css/main.3dd38d8a.css.map",
+    "main.85e2e958.js.map": "/Moon-website/static/js/main.85e2e958.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dd38d8a.css",
+    "static/js/main.85e2e958.js"
+  ]
+}
